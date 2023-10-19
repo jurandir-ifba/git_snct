@@ -2,6 +2,6 @@
 
 
 int main () {
-	std::cout <<"Olá Mundo cruel! estamos de volta."<< std::endl;
+	std::cout <<"O mundo Acabará 11hrs."<< std::endl;
 	return 0;
 }
